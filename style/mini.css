@@ -1,0 +1,32 @@
+
+
+@med ia screen and (max-width: 900px) {
+    .main-container {
+      flex-direction: column;
+    }
+    .section1-content {
+      margin-bottom: 64px;
+    }
+  
+    .section2-container {
+      flex-direction: column;
+    }
+  
+    .section2-wrap {
+      text-align: center;
+    }
+  
+    .section2-bigtext {
+      width: 225px;
+      margin-right: auto;
+      margin-left: auto;
+    }
+  
+    .section1-paragraph {
+      width: 100%;
+      max-width: 327px;
+    }
+    .section2-img1 {
+    }
+  }
+  
